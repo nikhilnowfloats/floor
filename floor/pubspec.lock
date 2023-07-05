@@ -228,9 +228,11 @@ packages:
   floor_annotation:
     dependency: "direct main"
     description:
-      path: "../floor_annotation"
-      relative: true
-    source: path
+      path: floor_annotation
+      ref: nikhil
+      resolved-ref: "133e88312ba74596f1bca04935018e17eb425942"
+      url: "https://github.com/nikhilnowfloats/floor.git"
+    source: git
     version: "1.4.2"
   floor_generator:
     dependency: "direct dev"
